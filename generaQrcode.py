@@ -10,5 +10,5 @@ import png
 from pyqrcode import QRCode 
 QRstr = "https://www.google.it/"
 url = pyqrcode.create(QRstr)
-"url.png('/Users/michelemanniello/Desktop/qr.png',scale = 8)"
+"url.png('/Users/nomemac/Desktop/qr.png',scale = 8)"
 
